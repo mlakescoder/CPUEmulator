@@ -1,4 +1,4 @@
-This is a project that on the website www.code fights.com, for the Space X bot.
+This is a project that I did for the Space X bot on the website www.code fights.com.
 
 Here are the directions for the project:
 
